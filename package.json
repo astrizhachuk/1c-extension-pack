@@ -2,7 +2,7 @@
     "name": "1c-extension-pack",
     "displayName": "1C (BSL) Extension Pack",
     "description": "A collection of extensions for 1C (BSL) Development",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "images/icon.png",
     "publisher": "astrizhachuk",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -24,6 +24,7 @@
         "eamodio.gitlens", 
         "ms-azuretools.vscode-docker", 
         "Reshitko.tester", 
-        "Shan.code-settings-sync"
+        "Shan.code-settings-sync",
+        "evilbeaver.oscript-debug"
     ]
 }
