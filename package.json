@@ -21,10 +21,8 @@
         "alexkrechik.cucumberautocomplete", 
         "codezombiech.gitignore", 
         "DavidAnson.vscode-markdownlint", 
-        "eamodio.gitlens", 
         "ms-azuretools.vscode-docker", 
         "Reshitko.tester", 
-        "Shan.code-settings-sync",
         "evilbeaver.oscript-debug"
     ]
 }
