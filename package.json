@@ -2,7 +2,7 @@
     "name": "1c-extension-pack",
     "displayName": "1C (BSL) Extension Pack",
     "description": "A collection of extensions for 1C (BSL) Development",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "images/icon.png",
     "publisher": "astrizhachuk",
     "license": "SEE LICENSE IN LICENSE.md",
