@@ -23,6 +23,7 @@
         "DavidAnson.vscode-markdownlint", 
         "ms-azuretools.vscode-docker", 
         "Reshitko.tester", 
-        "evilbeaver.oscript-debug"
+        "evilbeaver.oscript-debug",
+        "Zerobig.vscode-1c-metadata-viewer"
     ]
 }
