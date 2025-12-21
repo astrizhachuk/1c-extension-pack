@@ -23,6 +23,7 @@
         "DavidAnson.vscode-markdownlint", 
         "ms-azuretools.vscode-docker", 
         "Reshitko.tester", 
-        "evilbeaver.oscript-debug"
+        "evilbeaver.oscript-debug",
+        "yellow-hammer.1c-platform-tools"
     ]
 }
