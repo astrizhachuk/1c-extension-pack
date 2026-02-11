@@ -15,7 +15,7 @@ on:
       publish_to_open_vsx:
         description: 'Опубликовать в Open VSX'
         required: false
-        default: true
+        default: false
         type: boolean
       publish_to_marketplace:
         description: 'Опубликовать в VS Marketplace'
