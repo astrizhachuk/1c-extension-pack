@@ -2,7 +2,7 @@
     "name": "1c-extension-pack",
     "displayName": "1C (BSL) Extension Pack",
     "description": "A collection of extensions for 1C (BSL) Development",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icon": "images/icon.png",
     "publisher": "astrizhachuk",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -13,16 +13,16 @@
         "Extension Packs"
     ],
     "repository": {
-        "type": "git", 
+        "type": "git",
         "url": "https://github.com/astrizhachuk/1c-extension-pack.git"
     },
-    "extensionPack": [ 
-        "1c-syntax.language-1c-bsl", 
-        "alexkrechik.cucumberautocomplete", 
-        "codezombiech.gitignore", 
-        "DavidAnson.vscode-markdownlint", 
-        "ms-azuretools.vscode-docker", 
-        "Reshitko.tester", 
+    "extensionPack": [
+        "1c-syntax.language-1c-bsl",
+        "alexkrechik.cucumberautocomplete",
+        "codezombiech.gitignore",
+        "DavidAnson.vscode-markdownlint",
+        "ms-azuretools.vscode-docker",
+        "Reshitko.tester",
         "evilbeaver.oscript-debug",
         "yellow-hammer.1c-platform-tools"
     ]
