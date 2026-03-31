@@ -24,6 +24,7 @@
         "ms-azuretools.vscode-docker",
         "Reshitko.tester",
         "evilbeaver.oscript-debug",
-        "yellow-hammer.1c-platform-tools"
+        "yellow-hammer.1c-platform-tools",
+        "sh17ck.bsl-format-string-wizard"
     ]
 }
